@@ -4,3 +4,8 @@
 x64
 x64/*
 x64/*/*
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+libWorldTimeLib.a
